@@ -29,21 +29,25 @@ The model was trained on nearly **200,000 financial news records** and achieved 
 
 ## 📂 Dataset Information
 
-Dataset used in this project:
+This project uses the following dataset:
 
-- Financial News Headlines Dataset
+Dataset Link:  
+https://www.kaggle.com/datasets/astik13aw/business-news-headlines-with-sentiment
+
+### Dataset Details
+
+- Business & Financial News Headlines
 - Around **200K rows**
-- Contains:
-  - News headlines/text
-  - Sentiment labels
+- Binary sentiment classification
+- Text headlines with sentiment labels
 
 ### Dataset Features
 
-- Cleaned financial text data
-- Binary sentiment classification
-- Large-scale NLP dataset for deep learning
+- Large-scale NLP dataset
+- Financial and business domain headlines
+- Suitable for sentiment analysis and deep learning NLP tasks
 
-> Dataset is not uploaded because of GitHub file size limitations.
+> Dataset is not uploaded in this repository because of GitHub file size limitations.
 
 ---
 
@@ -179,4 +183,4 @@ Accuracy improved from:
 ## 👨‍💻 Author
 
 **Parth Rana**  
-AI Engineer
+AI Engineer | NLP & Deep Learning Enthusiast
