@@ -179,4 +179,4 @@ Accuracy improved from:
 ## 👨‍💻 Author
 
 **Parth Rana**  
-AI/ML Engineer | NLP & Deep Learning Enthusiast
+AI Engineer
